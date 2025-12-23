@@ -117,13 +117,14 @@ Automated-food-quality-analysis/
 
 # Output:
 ## Output 1 – Food Image Input
+<img width="551" height="554" alt="image" src="https://github.com/user-attachments/assets/546cb5bc-a2a2-4087-a320-fb9174d5047d" />
 
-<img width="564" height="564" alt="image" src="https://github.com/user-attachments/assets/8084aff7-8a5c-41af-9015-5576c11711c5" />
+<img width="530" height="531" alt="image" src="https://github.com/user-attachments/assets/4d8363d9-8aa3-43f1-8069-298850ab03fb" />
 
 ## Output 2 – Quality Classification Result
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/6b7d8416-120a-4674-ba65-d974c9d00a80" />
 
-![WhatsApp Image 2025-12-23 at 10 04 49 AM](https://github.com/user-attachments/assets/c9ae29a6-4980-4009-a905-7b932a52dd6b)
-
+<img width="1889" height="856" alt="image" src="https://github.com/user-attachments/assets/d0513cd5-9cc8-4235-a325-1be67538c82f" />
 '''
 Detection Accuracy: 97.5%
 '''
